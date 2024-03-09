@@ -1,0 +1,5 @@
+2023-03-11 20:12:43 DEBUG PropertyFileExample:17 - This is debug message
+2023-03-11 20:12:43 INFO  PropertyFileExample:18 - This is info message
+2023-03-11 20:12:43 WARN  PropertyFileExample:19 - This is warn message
+2023-03-11 20:12:43 ERROR PropertyFileExample:20 - This is error message
+2023-03-11 20:12:43 FATAL PropertyFileExample:21 - This is fatal message

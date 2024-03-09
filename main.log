@@ -1,0 +1,57 @@
+2023-03-11 20:05:00,758 +0530 [main] INFO  PropertyLog4jExample (PropertyLog4jExample.java:14) - This is info message
+2023-03-11 20:05:00,764 +0530 [main] WARN  PropertyLog4jExample (PropertyLog4jExample.java:15) - This is warn message
+2023-03-11 20:05:00,764 +0530 [main] ERROR PropertyLog4jExample (PropertyLog4jExample.java:16) - This is error message
+2023-03-11 20:05:00,765 +0530 [main] FATAL PropertyLog4jExample (PropertyLog4jExample.java:17) - This is fatal message
+2023-03-13 09:19:49,295 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:37) - Webpage is opened
+2023-03-13 09:19:49,431 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:41) - Window is maximized
+2023-03-13 09:19:49,703 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:43) - Window is minimized
+2023-03-13 09:19:50,893 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:45) - Browser is closed
+2023-03-13 09:20:20,836 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:37) - Webpage is opened
+2023-03-13 09:20:20,982 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:41) - Window is maximized
+2023-03-13 09:20:21,239 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:43) - Window is minimized
+2023-03-13 09:20:22,810 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:45) - Browser is closed
+2023-03-14 09:11:39,443 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:38) - Webpage is opened
+2023-03-14 09:11:39,575 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:49) - Window size were set to : 800x600 (800, 600)
+2023-03-14 09:12:27,427 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:38) - Webpage is opened
+2023-03-14 09:12:27,568 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:49) - Window size were set to : 800x600 (500, 600)
+2023-03-14 09:15:09,079 +0530 [main] INFO  DifferentWayMaximizeExample (DifferentWayMaximizeExample.java:42) - Webpage is opened
+2023-03-14 11:25:24,470 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - suggestion meaning in tamil
+2023-03-14 11:25:24,528 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - suggest
+2023-03-14 11:25:24,580 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - suggested
+2023-03-14 11:25:24,638 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - suggestion meaning in hindi
+2023-03-14 11:25:24,697 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - suggestion meaning
+2023-03-14 11:25:24,774 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - suggested answers icmai
+2023-03-14 11:25:24,834 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - suggest synonyms
+2023-03-14 11:25:24,897 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - suggestive
+2023-03-14 11:25:24,962 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - suggested for you meaning in tamil
+2023-03-14 11:25:25,001 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - 
+2023-03-14 11:25:25,048 +0530 [main] INFO  ListPrintExample (ListPrintExample.java:49) - 
+2023-03-14 17:08:42,335 +0530 [main] INFO  ListPrintExample (ListSelectparticularExample.java:53) - suggest
+2023-03-14 17:08:42,407 +0530 [main] INFO  ListPrintExample (ListSelectparticularExample.java:53) - suggestion meaning in marathi
+2023-03-14 17:15:54,208 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggest
+2023-03-14 17:15:54,266 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggestion meaning in marathi
+2023-03-14 17:15:54,320 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggested
+2023-03-14 17:15:54,369 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggestion meaning
+2023-03-14 17:15:54,423 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggestion meaning in hindi
+2023-03-14 17:15:54,481 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggest synonym
+2023-03-14 17:15:54,539 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggest some electoral reforms
+2023-03-14 17:15:54,595 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggestive
+2023-03-14 17:15:54,657 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggestion box
+2023-03-14 17:15:54,707 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - 
+2023-03-14 17:15:54,751 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - 
+2023-03-14 17:17:50,843 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggest
+2023-03-14 17:17:50,913 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggestion meaning in marathi
+2023-03-14 17:17:50,972 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggested
+2023-03-14 17:17:51,031 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggestion meaning
+2023-03-14 17:17:51,091 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggestion meaning in hindi
+2023-03-14 17:17:51,160 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggest synonym
+2023-03-14 17:17:51,218 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggest some electoral reforms
+2023-03-14 17:17:51,275 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggestive
+2023-03-14 17:17:51,333 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggestion box
+2023-03-14 17:17:51,378 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - 
+2023-03-14 17:17:51,424 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - 
+2023-03-14 17:19:46,935 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggest
+2023-03-14 17:20:35,101 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:52) - suggest
+2023-03-14 17:21:45,153 +0530 [main] INFO  ListPrintExample (fromlistSelectParticularText.java:53) - suggest
+2023-03-15 19:32:54,362 +0530 [main] INFO  ActiveElementExample (ActiveElementExample.java:34) - Now without using find element we are using activeElement to continue the operation
+2023-03-15 19:42:21,065 +0530 [main] INFO  ActiveElementExample (ActiveElementExample.java:45) - This case executed because we are using pagefactory
